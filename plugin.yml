@@ -1,0 +1,9 @@
+name: PingCommand
+author: Agazed
+description: Ping yourself and others
+website: http://agazed.net
+main: net.agazed.ping.Ping
+version: 1.3
+commands:
+  ping:
+    description: View your own or other's ping

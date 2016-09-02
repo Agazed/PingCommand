@@ -1,0 +1,8 @@
+# Made by Agazed
+# Visit me @ agazed.net!
+
+# Message format for /ping
+format-self: "&7Your ping: %PINGms"
+
+# Message format for /ping [player]
+format-player: "&7%PLAYER's ping: %PINGms"
